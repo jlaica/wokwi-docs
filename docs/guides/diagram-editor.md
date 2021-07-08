@@ -1,9 +1,8 @@
 ---
-title: Interactive Diagram Editor
-sidebar_label: Diagram Editor
+titulo: Editor de diagrama interactivo
+sidebar_label: Editor de diagramas
 ---
-
-The diagram editor provides an interactive way to edit your diagram: add components to the simulation and define the connections between them. It's a convenient alternative for editing the [diagram.json](../diagram-format) file directly.
+El editor de diagrama proporciona una forma interactiva de dibujar el diagrama: agregar componentes para la simulación y definir las conexiones entre estos componentes. Es una alternativa editar el archivo [diagram.json](https://docs.wokwi.com/diagram-format#connections) directamente. 
 
 :::info
 The diagram editor is currently in beta, and we are improving it daily. The documentation may lag behind a bit.
